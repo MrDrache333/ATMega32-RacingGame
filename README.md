@@ -2,6 +2,8 @@
 
 This is some Code i wrote, when i had time during my education. Its a simple C based Racing Game running on a ATMega32 witch was hooked up to a 16x2 LCD and some buttons to control the game.
 
+[Video](https://github.com/MrDrache333/ATMega32-RacingGame/blob/main/MegaRacer.mp4?raw=true)
+
 ## Changelog:
 ### V1.0a - 21.12.2017
 - Funktionierendes Spiel (Nur Waende ausweichen)
